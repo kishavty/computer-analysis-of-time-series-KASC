@@ -13,4 +13,7 @@ Confidence intervals of estimated slope coefficients, prediction of function val
 
 
 ## Raport1
-Description of the data, descriptive statistics for each variable. Determining a regression line, the coefficient of determination, confidence intervals for the estimated parameters of the function. Analysis of residuals. Predictions: forecast of the future value of Y(x0).
+Description of the data, descriptive statistics for each variable. Determining a regression line, the coefficient of determination, confidence intervals for the estimated parameters of the function. Analysis of residuals. Predictions: forecast of the future value of Y(x0).\
+Authors:\
+Katarzyna Kudełko\
+Agata Sobczak
